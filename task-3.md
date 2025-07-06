@@ -141,3 +141,5 @@ crontab -l
 - Backup files are stored in `/backups/` with date-based filenames.
 - Verification logs confirm the integrity of each backup.
 - Automated scheduling ensures weekly consistency.
+
+![alt text](output/task-3/backup-files.png)

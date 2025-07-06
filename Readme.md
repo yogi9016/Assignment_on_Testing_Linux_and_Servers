@@ -422,3 +422,4 @@ crontab -l
 - Verification logs confirm the integrity of each backup.
 - Automated scheduling ensures weekly consistency.
 
+![alt text](output/task-3/backup-files.png)
